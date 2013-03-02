@@ -1,0 +1,17 @@
+#!/usr/bin/env coffee
+
+Socx = require('nez').objective 'Socx'
+
+Socx
+
+    class: 'Core Module - Connectivity'
+
+    category: 'Communications'
+
+    description: """
+
+
+        Edge / Adaptor Plugins (for Plex)
+
+
+    """, (feature) ->  
