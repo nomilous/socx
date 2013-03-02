@@ -1,8 +1,5 @@
-socx
-====
-
-And shoes
----------
+socx (And shoes)
+================
 
 ### For when your comms require more than a barefoot amble.
 
